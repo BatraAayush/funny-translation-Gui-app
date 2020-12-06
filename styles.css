@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap');
+body{
+    font-family: 'Yeon Sung', cursive;
+    margin: 0rem;
+    background-color: #fcf8ec;
+background-image: url("https://www.transparenttextures.com/patterns/beige-paper.png");
+
+}
+
+:root{
+    --primaryColor: #79a3b1;
+    padding: 0rem;
+
+}
+
+/*Header*/
+
+.header{
+    background-color: var(--primaryColor);
+    padding: 0.01rem;
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    margin-bottom: 4rem;;
+}
+
+/*Inout*/
+
+.input-txt{
+    margin: auto;
+    display: block;
+    margin-top: 2rem;
+    width: 70%;
+    height: 20vh;
+    background: transparent;
+    padding: 1rem;
+    font-size: large;
+}
+
+/*Button*/
+
+.button{
+    margin: auto;
+    display: block;
+    padding: 0.5rem;
+    background-color: var(--primaryColor);
+    margin-top: 1rem;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    
+}
+
+.clear-btn{
+    width: 10%
+    
+}
+
+.translate-btn{
+    width: 30%;
+}
+
+/*output*/
+
+.output-heading{
+    text-align: center;
+    padding: 1rem;
+    font-weight: bold;
+    font-size: x-large;
+}
+.output-txt{
+    border: 1px  solid;
+    border-color: rgb(95, 92, 92);
+    min-height: 20vh;
+    width: 70%;
+    margin: auto;
+    font-size: large;
+    padding: 1rem;
+    
+}
+
+/*footer*/
+
+.footer{
+    background-color: var(--primaryColor);
+    padding: 1rem;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.footer-heading{
+    font-size: x-large;
+}
+
+
+
+
