@@ -37,6 +37,11 @@ body{
     font-size: large;
 }
 
+#error-msg{
+    color: red;
+    text-align: center;
+}
+
 /*Button*/
 
 .button{
