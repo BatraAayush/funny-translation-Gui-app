@@ -3,7 +3,7 @@ An app to translate english to Ferb language.</br>
 If you are a fan of PHINEAS AND FERB, you are gonna love this app.</br>
 Visit to see Project => [Banana Speak](https://ferb-translator-gui-app.netlify.app/)
 
-## TECHSTACK USED
+## Techstack Used
 1. HTML
 2. CSS
 3. Javascript
